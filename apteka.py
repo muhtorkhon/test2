@@ -3,7 +3,7 @@
 import time
 import os
 basa = {}
-pul = 100000
+pul = 10000
 class Dori:
         def __init__(self):
             self.dori_royxat = basa
